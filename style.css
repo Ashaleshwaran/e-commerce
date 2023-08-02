@@ -1,0 +1,103 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.am{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color:rgb(56, 51, 57);
+    width: 1728px;
+}
+.pp{
+    width:50px;
+    height: 50px;
+}
+.fg{
+    width: 50px;
+    height: 30px;
+}
+.kk{
+    width: 600px;
+    height:46px;
+}
+.tk{
+    width: 20px;
+    height: 20px;
+} 
+#bv{
+    display: flex;
+    gap:25px;
+    justify-content: space-evenly;
+    font-size: 20px;
+    color: white;
+}
+.jj{
+    display: flex;
+    font-size: 20px;
+    color: white;
+}
+.cx{
+    list-style: none;
+    width: 1728px;
+    height: 40px;
+    font-size: 20px;
+    background-color:rgb(163, 159, 159);
+
+}
+.ce:hover{
+    border: 1px solid black;
+}
+.cs{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.ce{
+    color: white;
+    text-decoration: none;
+}
+.dev{
+    margin-top: 400px;
+    
+}
+.game{
+    border: 3px solid;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: white;
+}
+.ga{
+    border: 3px solid;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color:white;
+}
+.box{
+    background-image: url('./wallpaperflare.com_wallpaper\ \(5\).jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 1726px;
+    background-size: 100% 100%; 
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.jp{
+    border-radius: 3px solid;
+    text-align: center;
+    border: 3px solid;
+    width: 400px;
+    height: 300px;
+    background-color: white;
+}
+.nb{
+    width: 1728px;
+    height: 800px;
+}
+.iphone{
+    position: relative;
+    bottom: 15px;
+}
